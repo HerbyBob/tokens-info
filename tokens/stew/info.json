@@ -1,0 +1,16 @@
+{
+  "name": "Stewiecoin",
+  "symbol": "STEW",
+  "decimals": 18,
+  "description": "Stewiecoin is a BEP-20 token designed for secure and efficient transactions on the Binance Smart Chain (BSC).",
+  "website": "https://stewiecoin.io",
+  "socials": {
+    "facebook": "https://www.facebook.com/people/Stewiecoin/100083064444358/",
+    "twitter": "https://twitter.com/stewiecoin",
+    "telegram": "https://t.me/stewiecoin",
+    "discord": "https://discord.gg/stewiecoin"
+  },
+  "explorer": "https://bscscan.com/token/0xYourTokenAddress",
+  "status": "active",
+  "id": "0x919914C245Fd0bcbb213e391099EfCd2b3d444aa"
+}
